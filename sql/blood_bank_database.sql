@@ -24,7 +24,7 @@ Primary key(admin_id)
 
 /*  insert admin data into admin_info table*/
 insert into admin_info(admin_name,admin_username,admin_password)
-values("Nitigya","nitigya_004",1234);
+values("Vartika","vartika_004",1234);
 
 /*create table blood in which all blood group is stored.*/
 create table blood(
